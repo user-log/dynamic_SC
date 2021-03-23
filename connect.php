@@ -1,12 +1,12 @@
 <?php
 
-$username = "database1my";
-$password = "012166Hob7980+";
+$username = "freedbtech_bassemowo";
+$password = "012166Root7980";
 
 
 
 try {
-    $con = new PDO("mysql:host=mysql.aba.ae;dbname=database1", $username, $password);
+    $con = new PDO("mysql:host=freedb.tech;dbname=freedbtech_bassemowo", $username, $password);
     
     $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     }
